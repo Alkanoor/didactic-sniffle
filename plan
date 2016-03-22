@@ -1,0 +1,6 @@
+
+
+
+Local -> première machine aléatoire sur le réseau (éventuellement ssh.enst.fr)
+première machine -> set/reset du programme distribué, dépendant du nom de la machine (hostname)
+===
